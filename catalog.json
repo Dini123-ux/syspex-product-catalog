@@ -1,0 +1,16 @@
+[
+  {
+    "category": "Safety Product",
+    "name": "SysGuard Corner Sensor",
+    "description": "Safety sensor untuk area corner warehouse, racking intersection, dan forklift traffic zone.",
+    "selling_points": [
+      "Alarm aktif saat ada movement dari 2 sisi corner",
+      "No unnecessary alarm",
+      "Battery life sampai 12 bulan",
+      "Audio & visual warning",
+      "Detection range up to 6 meter"
+    ],
+    "image_url": "https://Dini123-ux.github.io/syspex-product-catalog/images/corner-sensor.png",
+    "pdf_url": "https://Dini123-ux.github.io/syspex-product-catalog/pdf/corner-sensor.pdf"
+  }
+]
